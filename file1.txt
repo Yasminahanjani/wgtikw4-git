@@ -6,3 +6,5 @@ Kelas TIK : Gab-01
 Ini contoh file baru
 
 Nambahin baris baru
+
+edit baru
